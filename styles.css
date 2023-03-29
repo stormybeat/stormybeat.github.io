@@ -48,3 +48,8 @@ b {
   font-size: 120%;
 }
 
+.embedgif {
+  outline: 5px outset rgba(32, 32, 32, 0.438);
+  display: flex;
+  justify-content: center;
+}
