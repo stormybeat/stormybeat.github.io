@@ -15,7 +15,7 @@ body {
   margin-top: 2%;
 }
 
-.tempName {
+.textBox {
   border: 5px outset rgba(32, 32, 32, 0.438);
   background-color: rgba(32, 32, 32, 0.692);
   margin-left: 10%;
